@@ -4,7 +4,7 @@ A 1D CNN and an LSTM that predict how many cycles a jet engine has left before i
 
 **RUL (Remaining Useful Life)** = how many more cycles (flights) an engine can run before it breaks.
 
-![Predicted vs true RUL](pred_vs_true.png)
+![Predicted vs true RUL](images/pred_vs_true.png)
 
 ## Results
 
